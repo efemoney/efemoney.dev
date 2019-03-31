@@ -1,2 +1,2 @@
-# efemoney.github.io
+# efemoney.dev
 Personal website and blog
